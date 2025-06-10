@@ -1,0 +1,255 @@
+* {
+
+
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: 0.2s linear;
+    font-family: "Roboto", sans-serif;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    padding-top: 120px;
+    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    background-image: url("https://wallpapers.com/images/high/plain-black-background-5i70jfar781fi0q6.webp");
+}
+
+header {
+    width: 100%;
+    height: 120px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("https://wallpapers.com/images/hd/fade-4k-background-xra9dqc9u7bqbgqx.jpg");
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99;
+
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border-bottom: 3px solid transparent;
+    border-image: url(https://st3.depositphotos.com/4278403/18204/v/600/depositphotos_182044688-stock-video-technology-purple-background-binary-code.jpg) 20 repeat;
+}
+
+
+
+header section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 1.5rem;
+
+
+}
+
+section {
+    padding: 3rem 2rem;
+    margin: 0 auto;
+
+
+}
+
+.logo {
+    border: none;
+    width: 80px;
+    height: 80px;
+}
+
+.navbar a {
+    margin: 0.05rem;
+    font-size: 0.8rem;
+    color: #fff;
+
+}
+
+.navbar a:hover {
+    color: blueviolet;
+    border-bottom: 0.1rem solid blueviolet;
+    padding-bottom: 0.5rem;
+    font-size: 1rem;
+}
+
+
+.redirecionar {
+    text-align: center;
+
+    padding-bottom: 8px;
+}
+
+img {
+
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: 5px solid transparent;
+    border-image: url(https://st3.depositphotos.com/4278403/18204/v/600/depositphotos_182044688-stock-video-technology-purple-background-binary-code.jpg) 30 round;
+    border-radius: 10px;
+
+}
+
+#intro {
+
+    text-align: center;
+
+
+}
+
+.explicacao {
+    margin-top: 20px;
+    text-align: center;
+
+
+
+}
+
+#placamae {
+
+    margin-top: 20px;
+
+    text-align: center;
+
+
+}
+
+.titulopartes {
+    text-align: center;
+}
+
+#cpu {
+    margin-top: 20px;
+    text-align: center;
+
+
+
+}
+
+#ram {
+    margin-top: 20px;
+
+    text-align: center;
+
+
+}
+
+#armazenamento {
+    margin-top: 20px;
+
+    text-align: center;
+
+
+}
+
+#gpu {
+    margin-top: 20px;
+    text-align: center;
+
+
+
+}
+
+#psu {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+#cooler {
+    margin-top: 20px;
+    text-align: center;
+
+
+}
+
+#gabinete {
+    margin-top: 20px;
+    text-align: center;
+
+
+
+}
+
+#software {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+#personalizacao {
+    text-align: center;
+    margin-top: 20px;
+
+
+}
+
+#conclusao {
+    margin-top: 20px;
+
+    text-align: center;
+
+
+}
+
+.imgcentro1 {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    margin-bottom: 20px;
+
+}
+
+.imgcentro {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 30px auto;
+    margin-bottom: 20px;
+}
+
+hr {
+    border: 2px solid transparent;
+    border-image: url('https://st3.depositphotos.com/4278403/18204/v/600/depositphotos_182044688-stock-video-technology-purple-background-binary-code.jpg') 30 round;
+    width: 100%;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.fim {
+    text-align: center;
+}
+
+
+.bordas {
+    border: 10px solid transparent;
+    border-image: url('https://st3.depositphotos.com/4278403/18204/v/600/depositphotos_182044688-stock-video-technology-purple-background-binary-code.jpg') 30 round;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.icons img {
+    border: none;
+    margin: 1rem;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+}
+
+.icons img:hover {
+    width: 60px;
+    height: 60px;
+}
+
